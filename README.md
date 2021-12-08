@@ -1,26 +1,5 @@
 # Potluck
 
-## Instructions
-
-* Fork this Repository
-* Clone your forked repo to your computer.
-* Make sure you have `RSpec` installed globally:
-  - `$ gem install rspec`
-  - `$ rspec -v`, if installed you should see something like:
-  ```rb
-    RSpec 3.10
-      - rspec-core 3.10.0
-      - rspec-expectations 3.10.0
-      - rspec-mocks 3.10.0
-      - rspec-rails 4.0.1
-      - rspec-support 3.10.0
-  ```
- - To run the tests: `$ rspec test`. You can also run an individual file: `$ rspec test/FILE.rb` or even a single test: `$ rspec test/dish_spec.rb:LINE NUMBER`
-* Complete the activity below.
-* Push your solution to your forked repo
-* Submit a pull request from your repository to this repository
-  * Put your name in your PR!
-
 ## Iteration 1
 
 Use TDD to create a `Dish` class that responds to the following interaction pattern:
